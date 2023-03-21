@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tech-hacks/static/css/main.f6022062.chunk.css",
+    "main.js": "/tech-hacks/static/js/main.a6a6eadc.chunk.js",
+    "main.js.map": "/tech-hacks/static/js/main.a6a6eadc.chunk.js.map",
+    "runtime-main.js": "/tech-hacks/static/js/runtime-main.37735fb3.js",
+    "runtime-main.js.map": "/tech-hacks/static/js/runtime-main.37735fb3.js.map",
+    "static/js/2.c680c2f2.chunk.js": "/tech-hacks/static/js/2.c680c2f2.chunk.js",
+    "static/js/2.c680c2f2.chunk.js.map": "/tech-hacks/static/js/2.c680c2f2.chunk.js.map",
+    "index.html": "/tech-hacks/index.html",
+    "static/css/main.f6022062.chunk.css.map": "/tech-hacks/static/css/main.f6022062.chunk.css.map",
+    "static/js/2.c680c2f2.chunk.js.LICENSE.txt": "/tech-hacks/static/js/2.c680c2f2.chunk.js.LICENSE.txt",
+    "static/media/LetsUpgrade.b2687fac.png": "/tech-hacks/static/media/LetsUpgrade.b2687fac.png",
+    "static/media/Pattern.d732ecb6.png": "/tech-hacks/static/media/Pattern.d732ecb6.png",
+    "static/media/StreamYardHorz.6fd7650d.png": "/tech-hacks/static/media/StreamYardHorz.6fd7650d.png",
+    "static/media/about.svg": "/tech-hacks/static/media/about.6ac6013a.svg",
+    "static/media/hardwarelogo.f747040b.png": "/tech-hacks/static/media/hardwarelogo.f747040b.png",
+    "static/media/taskade-circle-icon.e388ffc9.png": "/tech-hacks/static/media/taskade-circle-icon.e388ffc9.png",
+    "static/media/techack_bg.7aabca31.png": "/tech-hacks/static/media/techack_bg.7aabca31.png",
+    "static/media/th_logo.png": "/tech-hacks/static/media/th_logo.1bcde1c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37735fb3.js",
+    "static/js/2.c680c2f2.chunk.js",
+    "static/css/main.f6022062.chunk.css",
+    "static/js/main.a6a6eadc.chunk.js"
+  ]
+}
